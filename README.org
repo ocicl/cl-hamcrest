@@ -5,5 +5,5 @@ This library makes your CL unittests more readable.
 |---------+-----------------------------------------------|
 | source  | git:https://github.com/40ants/cl-hamcrest.git |
 | commit  | 9abb497                                       |
-| systems | (hamcrest hamcrest-docs hamcrest-ci)          |
+| systems | hamcrest hamcrest-docs hamcrest-ci            |
 |---------+-----------------------------------------------|
